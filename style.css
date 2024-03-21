@@ -1,0 +1,37 @@
+body{
+    background-color: azure;
+}
+
+#Main-logo{
+    color: white;
+    background-color: black;
+}
+
+#BuyBooks{
+    text-align: center;
+}
+
+#author-link{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+#author-link a{
+    color: red;
+}
+
+#list {
+    column-count: 2;
+    column-gap: 5px; 
+}
+
+.contacting{
+    text-align: center;
+}
+
+.double-border {
+    border: none;
+    border-top: 3px double black; 
+    margin: 20px 0;
+}
